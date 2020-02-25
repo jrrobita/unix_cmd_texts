@@ -1,0 +1,6 @@
+total 3
+0 -rw-r--r-- 1 Joel 197121  0 Feb 23 20:43 file_list.txt
+1 -rw-r--r-- 1 Joel 197121 64 Feb 23 19:33 fruits.txt
+1 -rw-r--r-- 1 Joel 197121 64 Feb 23 20:13 fruits_sorted.txt
+1 -rw-r--r-- 1 Joel 197121 49 Feb 23 20:36 fruits_uniq.txt
+0 drwxr-xr-x 1 Joel 197121  0 Feb 23 19:59 my1stdir/

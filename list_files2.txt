@@ -1,0 +1,10 @@
+      0 ./.DS_Store
+      6 ./file_list.txt
+      6 ./file_list2.txt
+      8 ./fruits.txt
+      8 ./fruits_sorted.txt
+      6 ./fruits_uniq.txt
+      6 ./list_files2.txt
+      8 ./my1stdir/fruits.txt
+ 124505 ./my1stdir/shakespeare.txt
+ 124553 total
